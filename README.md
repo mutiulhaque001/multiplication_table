@@ -4,7 +4,7 @@ This is a simple program that prints the multiplication table for any given numb
 #include<stdio.h><br>
 int main()<br>
 {<br>
-&emsp	int i,table;<br>
+&emsp;	int i,table;<br>
 	printf("Enter the table you want to print");<br>
 	scanf("%d",&table);<br>
 	for(i=1;i<=10;i++)<br>
